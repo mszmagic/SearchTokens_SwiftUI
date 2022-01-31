@@ -11,7 +11,9 @@ import SwiftUI
 struct SearchBarKeywordTestApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView {
+                MenuView()
+            }
         }
     }
 }

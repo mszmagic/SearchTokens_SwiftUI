@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DA15EB3327A6E8DC003EC9F6 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA15EB3227A6E8DC003EC9F6 /* MenuView.swift */; };
 		DA920F5D27A6958E009D14B5 /* SearchBarKeywordTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA920F5C27A6958E009D14B5 /* SearchBarKeywordTestApp.swift */; };
 		DA920F5F27A6958E009D14B5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA920F5E27A6958E009D14B5 /* ContentView.swift */; };
 		DA920F6127A69590009D14B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA920F6027A69590009D14B5 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DA15EB3227A6E8DC003EC9F6 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 		DA920F5927A6958E009D14B5 /* SearchBarKeywordTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SearchBarKeywordTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA920F5C27A6958E009D14B5 /* SearchBarKeywordTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarKeywordTestApp.swift; sourceTree = "<group>"; };
 		DA920F5E27A6958E009D14B5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				DA920F5C27A6958E009D14B5 /* SearchBarKeywordTestApp.swift */,
+				DA15EB3227A6E8DC003EC9F6 /* MenuView.swift */,
 				DA920F5E27A6958E009D14B5 /* ContentView.swift */,
 				DA920F6027A69590009D14B5 /* Assets.xcassets */,
 				DA920F6227A69590009D14B5 /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DA920F5F27A6958E009D14B5 /* ContentView.swift in Sources */,
+				DA15EB3327A6E8DC003EC9F6 /* MenuView.swift in Sources */,
 				DA920F5D27A6958E009D14B5 /* SearchBarKeywordTestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
